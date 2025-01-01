@@ -27,7 +27,6 @@
 		"@sveltejs/adapter-netlify": "^4.4.0",
 		"carta-md": "^4.6.7",
 		"marked": "^15.0.4",
-		"skeleton-v2": "npm:@skeletonlabs/skeleton@^2.10.1",
 		"snarkdown": "^2.0.0",
 		"svelte-markdown": "^0.4.1"
 	}
